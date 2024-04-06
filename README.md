@@ -32,11 +32,20 @@
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
     </p>
-    <h3 align="left">Support Me Here:</h3>
-    <a href="https://www.buymeacoffee.com/ayush16" target="_blank">
+    <br></br>
+    <a href="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-sss&theme=react-dark">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-sss&theme=react-dark" alt="Ayush's github activity graph">
+</a>
+    <br></br>
+      <h3 align="left">Support Me Here:</h3>
+<a href="https://www.buymeacoffee.com/ayush16" target="_blank">
         <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" >
     </a>
+    
 </div>
+
+
 
 </body>
 </html>
+
