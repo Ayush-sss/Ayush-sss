@@ -33,6 +33,7 @@
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
     </p>
     <br></br>
+    <h3 align="left">Github Analytics:</h3>
     <a href="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-sss&theme=react-dark">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-sss&theme=react-dark" alt="Ayush's github activity graph">
 </a>
