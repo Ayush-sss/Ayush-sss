@@ -20,8 +20,43 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=ayush-sss&label=Profile%20Views&color=0e75b6&style=flat" />
+<!-- PROFILE VISITORS -->
 
+<div align="center">
+
+<h2>👀 PROFILE VISITORS</h2>
+<!-- Digital-style visitor counter -->
+
+<table>
+<tr>
+
+<td align="center" width="80">
+<img src="https://img.shields.io/badge/0-000000?style=for-the-badge&labelColor=000000&color=FFFFFF">
+</td>
+
+<td align="center" width="80">
+<img src="https://img.shields.io/badge/7-000000?style=for-the-badge&labelColor=000000&color=FFFFFF">
+</td>
+
+<td align="center" width="80">
+<img src="https://img.shields.io/badge/3-000000?style=for-the-badge&labelColor=000000&color=FFFFFF">
+</td>
+
+<td align="center" width="80">
+<img src="https://img.shields.io/badge/5-000000?style=for-the-badge&labelColor=000000&color=FFFFFF">
+</td>
+
+</tr>
+</table>
+
+<p>
+<b>PROFILE VISITORS</b>
+</p>
+
+<br>
+
+
+</div>
 </div>
 
 ---
