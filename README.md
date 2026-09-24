@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Ayush Sarda
+# 👋 Hey, I'm Ayush S Sarda
 
 ### Software Engineer • Full-Stack Developer • Builder
 
